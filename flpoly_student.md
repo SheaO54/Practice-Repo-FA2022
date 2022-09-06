@@ -1,27 +1,26 @@
-## Student Name (or name you would preferred to be called)
-
+## Shea O'Malley
 ### Fall 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Analytic Geometry and Calculus 
 
-- Course 2
+- Introduction to Data Science 
 
-- Course 3
+- Pyhton for Data Analytics
 
-- Course 4
+- Introduction to Computation and Programming
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Video games
 
-- Thing 2
+- Robotics
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Coding classes
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/09/06
